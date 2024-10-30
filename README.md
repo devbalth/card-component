@@ -2,7 +2,7 @@
 
 <!-- Introduction -->
 
-[![Card][product-screenshot]]
+[product-screenshot]
 
 <!-- Details -->
 
