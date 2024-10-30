@@ -2,7 +2,7 @@
 
 <!-- Introduction -->
 
-[! product-screenshot ]
+[! [product-screenshot] ]
 
 <!-- Details -->
 
